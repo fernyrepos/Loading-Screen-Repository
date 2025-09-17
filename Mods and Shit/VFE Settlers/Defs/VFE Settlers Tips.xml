@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-  <TipSetDef>
-    <defName>Ferny_VFEClassicalTips</defName>
-    <tips>
-      <li TKey="FernyVFEClassical1">Traveling to a republic allows you to converse with senators. Gain the support of all of its senators and they might return the favor.</li>
-      <li TKey="FernyVFEClassical2">Uniting the republics grants you the power of an Emperor, instantly recruiting republic faction members in a single click.</li>
-      <li TKey="FernyVFEClassical3">Don't be limited by your terrain. Research road-building and pave your own routes for travel.</li>
-    </tips>
-  </TipSetDef>
+
   
 </Defs>
