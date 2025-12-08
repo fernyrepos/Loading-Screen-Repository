@@ -2,6 +2,7 @@
   <v1.6>
 <!-- DLCS -->
     <li IfModActive="ludeon.rimworld.ideology">Mods and Shit/Ideology</li>
+    <li IfModActive="ludeon.rimworld.anomaly">Mods and Shit/Anomaly</li>
 <!-- MODS -->
     <li IfModActive="brrainz.achtung">Mods and Shit/Achtung</li>
     <li IfModActive="hlx.ultratechalteredcarbon">Mods and Shit/Altered Carbon</li>
