@@ -9,6 +9,7 @@
     <li IfModActive="defi.blueprints.fork">Mods and Shit/Blueprints</li>
     <li IfModActive="det.avaloi">Mods and Shit/Det's Avaloi</li>
     <li IfModActive="det.boglegs">Mods and Shit/Det's Boglegs</li>
+    <li IfModActive="det.venators">Mods and Shit/Det's Venators</li>
     <li IfModActive="dubwise.dubsbadhygiene">Mods and Shit/Dubs Bad Hygiene</li>
     <li IfModActive="mlie.explosiveradius">Mods and Shit/Explosive Radius</li>
     <li IfModActive="aelanna.getoutofmychair">Mods and Shit/Get Out Of My Chair</li>
@@ -31,6 +32,7 @@
     <li IfModActive="vanillaexpanded.vfepropsanddecor">Mods and Shit/VFE Props</li>
     <li IfModActive="oskarpotocki.vanillafactionsexpanded.settlersmodule">Mods and Shit/VFE Settlers</li>
     <li IfModActive="vanillaexpanded.vplantsesucculents">Mods and Shit/VPE Succulents</li>
+    <li IfModActive="vanillaexpanded.vpsycastse">Mods and Shit/VE Psycasts</li>
     <li IfModActive="vanillaracesexpanded.highmate">Mods and Shit/VRE Highmate</li>
     <li IfModActive="vanillaracesexpanded.pigskin">Mods and Shit/VRE Pigskins</li>
     <li IfModActive="vanillaracesexpanded.saurid">Mods and Shit/VRE Saurids</li>
