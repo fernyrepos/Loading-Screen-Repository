@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Nikolai_VenatorTips</defName>
+    <tips>
+      <li TKey="NikolaiVenator1">Venators possess a paralyzing bite, capable of crippling foes far greater than them.</li>
+      <li TKey="NikolaiVenator2">The precision longrifle's ergonomics only suit certain xenotypes, but it packs a punch.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>
