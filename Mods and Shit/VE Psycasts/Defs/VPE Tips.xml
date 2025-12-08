@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Nikolai_VPETips</defName>
+    <tips>
+      <li TKey="NikolaiVPE1">Protector overshields do not block projectiles from being fired out.</li>
+      <li TKey="NikolaiVPE2">The Empire claims a monopoly on the trade in eltex, and won't take kindly to those who violate it.</li>
+      <li TKey="NikolaiVPE3">Tales speak of immortal sanguophage chronopaths, whose hemogenic natures counter the usual cost of that psycasting discipline.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>
