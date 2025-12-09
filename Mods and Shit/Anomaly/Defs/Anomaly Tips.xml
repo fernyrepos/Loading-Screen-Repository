@@ -4,10 +4,9 @@
   <TipSetDef>
     <defName>Nikolai_AnomalyTips</defName>
     <tips>
-      <li TKey="NikolaiAnomaly1">A certain entity can copy genes, traits and psylink levels, but not without risk.</li>
-      <li TKey="NikolaiAnomaly2">Most psychic rituals cannot be performed in space.</li>
-      <li TKey="NikolaiAnomaly3">Bioferrite is flammable, but holds a sharp edge and can amplify certain psychic effects.</li>
-      <li TKey="NikolaiAnomaly4">That which is dark, shuns the light.</li>
+      <li TKey="NikolaiAnomaly1">A dark force lurking somewhere can copy genes, traits and psylink levels, but not without risk.</li>
+      <li TKey="NikolaiAnomaly2">Bioferrite is flammable, but holds a sharp edge and can amplify certain psychic effects.</li>
+      <li TKey="NikolaiAnomaly3">That which is dark shuns the shining light.</li>
     </tips>
   </TipSetDef>
   
