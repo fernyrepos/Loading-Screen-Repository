@@ -11,9 +11,9 @@
   <TipSetDef>
     <defName>Nikolai_AlteredCarbonTips</defName>
     <tips>
-      <li TKey="Nikolai_AlteredCarbon1">Neurals stored on stacks can be modified with the proper technology, but doing it too much can degrade them.</li>
-      <li TKey="Nikolai_AlteredCarbon2">It can be awkward to find yourself in a sleeve that doesn't match your original xenotype or gender.</li>
-      <li TKey="Nikolai_AlteredCarbon3">Some radical societies overcome the emotional issues of repeated sleeving through ideoligious conviction.</li>
+      <li TKey="Nikolai_AlteredCarbon1">Neurals stored on stacks can be modified with the proper technology, but doing so too much can degrade them.</li>
+      <li TKey="Nikolai_AlteredCarbon2">It can be awkward to find yourself in a bodily sleeve that doesn't match your original xenotype or gender.</li>
+      <li TKey="Nikolai_AlteredCarbon3">Some radical societies overcome the emotional issues of repeated bodily sleeving through ideoligious conviction.</li>
     </tips>
   </TipSetDef>
   
