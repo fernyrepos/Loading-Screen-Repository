@@ -4,7 +4,7 @@
   <TipSetDef>
     <defName>Ferny_ExplosiveRadiusTips</defName>
     <tips>
-      <li TKey="FernyExplosiveRadius1">The yellow raidus around a selected thing depicts the radius of its potential explosion.</li>
+      <li TKey="FernyExplosiveRadius1">The yellow radius around a selected thing depicts the radius of its potential explosion.</li>
     </tips>
   </TipSetDef>
   
