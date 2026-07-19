@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TipSetDef>
+    <defName>Ferny_EvenStorageTips</defName>
+    <tips>
+      <li TKey="FernyEvenStorage1">Want to spread your supply of a resource between two spots? Linking storage buildings gives you an additional button for distributing those resources evenly.</li>
+    </tips>
+  </TipSetDef>
+  
+</Defs>

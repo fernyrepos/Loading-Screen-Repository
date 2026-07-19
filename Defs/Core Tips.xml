@@ -7,14 +7,33 @@
       <li TKey="FernyCore1">Mechs can adapt to EMP damage. Don't use it too much!</li>
       <li TKey="FernyCore2">Traders usually keep their stash on their pack animals.</li>
       <li TKey="FernyCore3">Generators produce a lot of heat--sometimes enough to give a colonist heatstroke.</li>
-      <li TKey="FernyCore4">Not all colonists need limbs. If needed, remove them.</li>
+      <li TKey="FernyCore4">Not all colonists need limbs. If needed, feel free to remove them.</li>
       <li TKey="FernyCore5">Colonists can carry some medicine on them. This can be a lifesaver in tough moments.</li>
       <li TKey="FernyCore6">Mountains can provide a shelter against heat and heatwaves.</li>
       <li TKey="FernyCore7">Predators will not hunt a colonist that goes indoors.</li>
       <li TKey="FernyCore8">The higher the quality of the bed, the faster people using it sleep.</li>
-      <li TKey="FernyCore9">People don't use all their organs. Removing unneccessary ones could turn a profit.</li>
+      <li TKey="FernyCore9">People don't use all their organs. Removing unnecessary ones could turn a profit.</li>
       <li TKey="FernyCore10">Many colonists can be researching at once, as long as each has a place to do so.</li>
       <li TKey="FernyCore11">Human skin is a plentiful textile that can be used for many things, from couches to hats.</li>
+      <li TKey="FernyCore12">Doors held open will not slow movement, but they also let temperature equalize between rooms.</li>
+      <li TKey="FernyCore13">Most colonists hate seeing corpses. Keep your kill zones away from living areas.</li>
+      <li TKey="FernyCore14">Sleeping outdoors is a negative experience for most colonists. Even a basic shack is better than nothing.</li>
+      <li TKey="FernyCore15">As your pawn's expectations grow, so does the need for more types of recreation.</li>
+      <li TKey="FernyCore16">Solar panels don't work at night or during eclipses. Always have backup power.</li>
+      <li TKey="FernyCore17">Power switches can isolate parts of your power network to prevent total grid failure.</li>
+      <li TKey="FernyCore18">Enemies target weak points. Thin walls and open doors invite raids.</li>
+      <li TKey="FernyCore19">Opening doors frequently lets heat escape. Airlocks help maintain temperature.</li>
+      <li TKey="FernyCore20">Some animals bond with colonists, increasing mood but causing grief if they die.</li>
+      <li TKey="FernyCore21">Animals can haul items if trained, reducing colonist workload.</li>
+      <li TKey="FernyCore22">Darkness makes colonists slower and more unhappy.</li>
+      <li TKey="FernyCore23">You can right-click the allow order to allow everything on the tile.</li>
+      <li TKey="FernyCore24">Long walking distances can waste more time than slow work speeds. Layout is often the determining factor of a workspace.</li>
+      <li TKey="FernyCore25">Items deteriorate quickly outdoors. Roof your storage or lose value fast.</li>
+      <li TKey="FernyCore26">People choose the fastest path, not the shortest. Floor types may influence routes.</li>
+      <li TKey="FernyCore27">Scars permanently reduce body part efficiency unless treated.</li>
+      <li TKey="FernyCore28">Overbulking your settlement early can attract more danger than you're ready for.</li>
+      <li TKey="FernyCore29">Large rooms take significantly longer to heat or cool than small ones.</li>
+      <li TKey="FernyCore30">You can press the 'Z' key to search your surroundings for specific things.</li>
     </tips>
   </TipSetDef>
   

@@ -1,5 +1,6 @@
 <loadFolders>
   <v1.6>
+    <li>/</li>
 <!-- DLCS -->
     <li IfModActive="ludeon.rimworld.ideology">Mods and Shit/Ideology</li>
     <li IfModActive="ludeon.rimworld.anomaly">Mods and Shit/Anomaly</li>
